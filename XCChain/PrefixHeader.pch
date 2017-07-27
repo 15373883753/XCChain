@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  XCChain
+//
+//  Created by superMan on 2017/7/26.
+//  Copyright © 2017年 徐学超. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "Macros.h"
+#import "UIView+Chain.h"
+#import "UIButton+Chain.h"
+#import "XCBaseButton.h"
+#import "UILabel+Chain.h"
+
+#endif /* PrefixHeader_pch */
